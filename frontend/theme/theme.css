@@ -1,0 +1,39 @@
+:root {
+    /* Background */
+    --bg-main: #0D0B14;
+    --bg-secondary: #12101A;
+
+    /* Panel */
+    --panel: #181522;
+    --panel-hover: #211C2D;
+
+    /* Primary */
+    --primary: #7C3AED;
+    --primary-hover: #8B5CF6;
+
+    /* Secondary */
+    --secondary: #C89B3C;
+    --secondary-hover: #E0B84F;
+
+    /* Text */
+    --text-main: #F5F3FF;
+    --text-secondary: #A8A3B8;
+
+    /* RPG Stats */
+    --hp: #EF4444;
+    --mana: #3B82F6;
+    --stamina: #22C55E;
+    --exp: #F59E0B;
+
+    /* Border */
+    --border: #30283D;
+
+    --bg: #0B0812;
+    --card: #15101F;
+
+    --text: #F5F3FF;
+    --text-secondary: #A8A3B8;
+
+    --border: #30243F;
+
+}
